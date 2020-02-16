@@ -111,7 +111,7 @@ This is a summarization of the distribution of leaves according to change in dep
 
 ## **Confusion Matrix**
 
-For some reason to be determined, Im seeing lower accuracy through rmd (0.9591) than when run via script (0.9766), This is (of course) also reflected below in the ROC/AUC value
+
 
 
 ```
