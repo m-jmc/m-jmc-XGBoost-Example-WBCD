@@ -159,7 +159,8 @@ AUC value 0.089 and ROC plot
 ![](XGBoost-Example-WBCD_Git_files/figure-html/unnamed-chunk-18-1.png)<!-- -->
 
 
-
+## Data: 
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels
 
 
 
