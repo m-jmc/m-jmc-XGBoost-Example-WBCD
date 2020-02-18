@@ -160,7 +160,7 @@ AUC value 0.089 and ROC plot
 
 
 ## Data: 
-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 
 
