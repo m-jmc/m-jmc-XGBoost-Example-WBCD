@@ -13,7 +13,7 @@ Please note, r-markdown {.tabset} does not render as expected on github, further
 
 
 ## Feature Plot {.tabset .tabset-fade}
-Split violin / Box plot of dataset features with correspoinding Benign or Malignant diagnosis
+Split violin / Box plot of dataset features with correspoinding Benign or Malignant diagnosis. Features with greater variance between benign and malignant cells may be predictive. 
 
 ### Mean 
 
@@ -31,7 +31,7 @@ Split violin / Box plot of dataset features with correspoinding Benign or Malign
                                                       
                                                       
 ## **Correlation Plots** {.tabset .tabset-fade}
-Correlation plots of features and removed highly correlated features
+Correlation plots of features. To prevent multicollinearity a correlation cutoff of .75 is used to remove highly correlated features. 
 
 ### Correlation 
 
@@ -112,7 +112,7 @@ This is a summarization of the distribution of leaves according to change in dep
 ## **Confusion Matrix**
 
 
-
+Accuracy and sensitivity performance is good (95.9% and 95.5% respectively) and we also see good specificity at 96% (F1-score of 96.8%). In this application of predicting malignant breast cancer cells, increasing sensitivity to reduce the number of false negatives (that is, patients who have malignant cancer incorrectly identified as benign) is of critical importance. We would rather overcall positive cases for additional followup than miss a malignant case.     
 
 ```
 ## Confusion Matrix and Statistics
@@ -148,7 +148,7 @@ This is a summarization of the distribution of leaves according to change in dep
 
 ## **ROC**
 
-AUC value 0.089 and ROC plot 
+To further assess tue positives and false negative rate at various thresholds: AUC value 0.074 and ROC plot 
 
 
 ```
