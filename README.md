@@ -1,7 +1,7 @@
 
 This was one of the first data sets that I had ever worked with. I thought it would be fun to revisit it as a demonstration of a few techniques and explore XGBoost. 
 
-Please note, r-markdown {.tabset} does not render as expected on github, further complications limited graphing of XGBoost ensemble trees. See "Full HTML Report" for a complete rendering.
+Please note, r-markdown {.tabset} does not render as expected on github, further complications limited graphing of XGBoost ensemble trees. See "Full HTML Report" for a complete rendering from Rmarkdown.
 
 
 
