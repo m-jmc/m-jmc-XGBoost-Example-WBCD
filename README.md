@@ -1,3 +1,5 @@
+[Updated Keras / Jupyter Notebooks Project](https://github.com/m-jmc/Keras-Jupyter-WBCD/blob/master/Keras%20Classification.ipynb)
+
 
 This was one of the first data sets that I had ever worked with. I thought it would be fun to revisit it as a demonstration of a few techniques and explore XGBoost. 
 
